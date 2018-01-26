@@ -64,7 +64,7 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: f32df14ca1286d8207d4   #生成的clientID
   clientSecret: 8a4fa07e7b7b79b1ecbf8fdc7f9e109c8771f284  #同上
-  repo: SufBing.github.io   #仓库名称
+  repo: sufbing.github.io   #仓库名称
   owner: SufBing   #github用户名
   admin: SufBing
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
