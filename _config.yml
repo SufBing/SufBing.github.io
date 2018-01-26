@@ -62,8 +62,8 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: f32df14ca1286d8207d4   #生成的clientID
-  clientSecret: 8a4fa07e7b7b79b1ecbf8fdc7f9e109c8771f284  #同上
+  clientID: 06a91d46d3d85bcfcff4   #生成的clientID
+  clientSecret: dd4da33ab387d55858712da799bc08724db27161  #同上
   repo: sufbing.github.io   #仓库名称
   owner: SufBing   #github用户名
   admin: SufBing
