@@ -1,1 +1,14 @@
-
+---
+layout:     post
+title:      这是我的第二篇日记
+subtitle:   Hello World
+date:       2018-01-27
+author:     BB
+header-img: img/post-bg-re-vs-ng2.jpg
+catalog: true
+tags:
+    - 生活
+---
+# 正文
+ 寒假开这个博客，如果没有特殊的情况，我会在这上面记录我一周学习的心得与体会，作为自我监督的内容。
+ ![](~/90eb2137ly1fnm1ngrdjnj20qo0jcdon.jpg)
